@@ -1,0 +1,4 @@
+interface:
+  display_name: "Minecraft 物品建模"
+  short_description: "用 Blockbench 制作低组件像素武器与道具，处理描边、动画、修正和导出验证"
+  default_prompt: "使用 $minecraft-modeling-item 制作或修正 Minecraft 物品，先核对运行时和组件预算，再完成立体几何、像素上色、描边、动画与保真校验。"
